@@ -1,0 +1,11 @@
+.swiper-slide img 
+{
+    width: 100%
+}
+
+
+   .swiper-button-next, .swiper-button-prev {
+    color: red; /* Change arrow color */
+    font-size: 24px; /* Adjust size */
+}
+ 
